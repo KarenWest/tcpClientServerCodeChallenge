@@ -1,0 +1,5 @@
+/home/karen/tcp_server_client/build/CMakeFiles/tcp_client_server.dir
+/home/karen/tcp_server_client/build/CMakeFiles/tcp_server.dir
+/home/karen/tcp_server_client/build/CMakeFiles/tcp_client.dir
+/home/karen/tcp_server_client/build/CMakeFiles/edit_cache.dir
+/home/karen/tcp_server_client/build/CMakeFiles/rebuild_cache.dir
